@@ -28,13 +28,13 @@ This repository contains my solutions to assignments from the Dpro Japanese AI a
 - Housing Price Forecasts  
 - Credit information learning
 - Linear regression 
-
+- Logistic Regression
+- SVM
 ---
 
 ## ⏳ In Progress / To Do
 
-- Logistic Regression
-- SVM  
+  
 - Clustering
 - Decision tree
 - Esemble
