@@ -30,14 +30,15 @@ This repository contains my solutions to assignments from the Dpro Japanese AI a
 - Linear regression 
 - Logistic Regression
 - SVM
+- Clustering
+- Decision tree
+- Esemble
 ---
 
 ## ⏳ In Progress / To Do
 
-  
-- Clustering
-- Decision tree
-- Esemble
+- Neural Networks
+
 ---
 
 Feel free to explore the notebooks and scripts as I progress through the course.
